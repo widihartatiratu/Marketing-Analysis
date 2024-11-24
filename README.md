@@ -1,4 +1,7 @@
-Marketing Analysis
+**Marketing Analysis**
 
-Goals: Optimasi campaign produk terbaru
-Cara mengoptimasi campaign? Dengan membuat predictive model untuk mengetahui customer yg memiliki probability yg paing besar dalam menerima campaign.
+**Permasalahan**
+Team Marketing akan meluncurkan campaign produk terbaru. Bagaimana caranya kita mengoptimasi campaign produk kita?
+**Bagaimana kita mengoptimasi campaign produk kita?**
+Membuat predictive model untuk mendapatkan profit yg maksimal. Serta memahami karakteristik customer yg ingin membeli produk baru.
+Predictive model → Untuk membuat targeted advertising campaign.
